@@ -1,0 +1,19 @@
+description = "Sync .gemini/subagents JSON files into .gemini/agents Markdown mirrors and verify tool parity."
+prompt = """
+Run this exact shell command from the project root to sync subagent JSON files into Gemini agent Markdown mirrors:
+
+powershell -NoProfile -ExecutionPolicy Bypass -File .gemini/sync-subagents.ps1
+
+The script must report both:
+
+- `Synced ... subagent mirror(s).` or `No mirror content changes were needed.`
+- `Tool parity check: OK.`
+
+If the tool parity check fails, do not run `/agents reload`. Show the mismatch exactly and explain that mirror `.md` tools must match the source JSON `tools` array.
+
+If the sync and tool parity check succeed, tell the user to run:
+
+/agents reload
+
+Do not edit files manually. Do not modify native agents. Do not replace mirror tools with `*` unless the source JSON explicitly uses `*`.
+"""

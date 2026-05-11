@@ -1,0 +1,27 @@
+description = "Generate comprehensive textbook-style lessons for Modules 1-6."
+prompt = """
+@gemini-course-master: Triển khai nội dung bài giảng chuyên sâu cho các Module từ 1 đến 6 theo syllabus `output/Course_Syllabus_Gemini_CLI.md`. Nhiệm vụ: Chuyển đổi từ dạng 'Quick Playbook' sang 'Comprehensive Textbook' (Giáo trình chi tiết).
+
+1. Nghiên cứu sâu:
+- Dùng `grep_search` và `read_file` (phải dùng start_line/end_line) khai thác toàn bộ Clippings tương ứng mỗi Module.
+- Tuyệt đối không lược bỏ các chi tiết kỹ thuật quan trọng như: Model Routing, Token Caching, Policy Engine, MCP.
+
+2. Biên soạn Giáo trình (`Lesson_Content.md`):
+- Kích hoạt `@tutorial-engineer` với cấu trúc học thuật:
+- Mục tiêu bài học: Phân tầng theo Bloom's Taxonomy.
+- Lý thuyết chi tiết: Giải thích sâu về kiến trúc, cơ chế hoạt động (ví dụ: Context Injection hoạt động thế nào, sự khác biệt giữa Pro và Flash trong xử lý context dài).
+- Case Study: Đưa ra tình huống thực tế thường gặp và cách giải quyết.
+- So sánh: Lập bảng so sánh các tính năng hoặc lệnh dễ nhầm lẫn.
+- Ví dụ code: Bắt buộc dùng prefix `rtk` (ví dụ: `rtk gemini "lệnh"`). Code phải có comment giải thích từng dòng.
+
+3. Tài liệu thực hành (`Hands_on_Lab.md`):
+- Kích hoạt `@teaching-resource-generator`.
+- Yêu cầu: Lab phải có 3 cấp độ: Basic (Làm quen) -> Intermediate (Vận dụng) -> Challenge (Giải quyết vấn đề phức tạp). Phải có mục 'Troubleshooting' cho các lỗi thường gặp trong lúc lab.
+
+4. Lưu trữ & Ràng buộc:
+- Lưu tại: `wiki/lessons/Module_[N]/` (giữ nguyên tên folder descriptive hiện có).
+- Trích dẫn (Citations): Ghi rõ tên file và đường dẫn source từ Clippings ở cuối mỗi phần.
+- Caveman mode: Khi báo cáo tiến độ, chỉ dùng vài từ. Tập trung vào file đã tạo.
+
+Triển khai ngay lập tức cho Module 1, 2, 3, 4, 5, 6.
+"""

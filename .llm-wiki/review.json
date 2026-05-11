@@ -1,0 +1,4481 @@
+[
+  {
+    "type": "contradiction",
+    "title": "Checkpointing vs Chat Compression Terminology",
+    "description": "The wiki overview mentions checkpointing as the \"underlying safety mechanism\" while the source document discusses \"chat compression points.\" The analysis recommends clarifying whether these are the same mechanism or distinct features. The current pages treat them as related but leave the distinction ambiguous.",
+    "sourcePath": "E:/My Wiki/Gemini CLI/raw/sources/III. Features/III. 17. Rewind.md",
+    "affectedPages": [
+      "wiki/concepts/checkpointing.md",
+      "wiki/sources/III. 17. Rewind.md"
+    ],
+    "searchQueries": [
+      "gemini cli checkpointing vs compression mechanism",
+      "chat compression session management CLI",
+      "geminicli session state reconstruction"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1",
+    "resolved": true,
+    "createdAt": 1777959944051,
+    "resolvedAction": "Created: wiki/queries/checkpointing-vs-chat-compression-terminology-2026-05-05.md"
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in comparisons/forking-conversations-vs-git-worktrees.md",
+    "description": "Broken link: [[forking-conversations]] — target page not found.",
+    "affectedPages": [
+      "comparisons/forking-conversations-vs-git-worktrees.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:comparisons/forking-conversations-vs-git-worktrees.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/comparisons/forking-conversations-vs-git-worktrees.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2",
+    "resolved": false,
+    "createdAt": 1777971177815
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in comparisons/forking-conversations-vs-git-worktrees.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "comparisons/forking-conversations-vs-git-worktrees.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:comparisons/forking-conversations-vs-git-worktrees.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/comparisons/forking-conversations-vs-git-worktrees.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3",
+    "resolved": false,
+    "createdAt": 1777971177973
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in comparisons/forking-conversations-vs-git-worktrees.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "comparisons/forking-conversations-vs-git-worktrees.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:comparisons/forking-conversations-vs-git-worktrees.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/comparisons/forking-conversations-vs-git-worktrees.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4",
+    "resolved": false,
+    "createdAt": 1777971178283
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/a2a-protocol.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/a2a-protocol.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/a2a-protocol.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/a2a-protocol.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5",
+    "resolved": false,
+    "createdAt": 1777971178576
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/acp-mode.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/acp-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/acp-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/acp-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6",
+    "resolved": false,
+    "createdAt": 1777971178889
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/acp-mode.md",
+    "description": "Broken link: [[acp-client-server-architecture]] — target page not found.",
+    "affectedPages": [
+      "concepts/acp-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/acp-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/acp-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7",
+    "resolved": false,
+    "createdAt": 1777971179221
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/acp-mode.md",
+    "description": "Broken link: [[acp-file-system-proxy]] — target page not found.",
+    "affectedPages": [
+      "concepts/acp-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/acp-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/acp-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8",
+    "resolved": false,
+    "createdAt": 1777971179543
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/acp-mode.md",
+    "description": "Broken link: [[acp-telemetry]] — target page not found.",
+    "affectedPages": [
+      "concepts/acp-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/acp-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/acp-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9",
+    "resolved": false,
+    "createdAt": 1777971179890
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/acp-mode.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/acp-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/acp-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/acp-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-10",
+    "resolved": false,
+    "createdAt": 1777971180225
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/acp-mode.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/acp-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/acp-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/acp-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-11",
+    "resolved": false,
+    "createdAt": 1777971180568
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/acp-mode.md",
+    "description": "Broken link: [[acp-client-server-architecture]] — target page not found.",
+    "affectedPages": [
+      "concepts/acp-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/acp-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/acp-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-12",
+    "resolved": false,
+    "createdAt": 1777971182085
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/acp-mode.md",
+    "description": "Broken link: [[acp-file-system-proxy]] — target page not found.",
+    "affectedPages": [
+      "concepts/acp-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/acp-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/acp-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-13",
+    "resolved": false,
+    "createdAt": 1777971182230
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/acp-mode.md",
+    "description": "Broken link: [[acp-telemetry]] — target page not found.",
+    "affectedPages": [
+      "concepts/acp-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/acp-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/acp-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-14",
+    "resolved": false,
+    "createdAt": 1777971182535
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-awareness.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-awareness.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-awareness.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-awareness.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-15",
+    "resolved": false,
+    "createdAt": 1777971182695
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-awareness.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-awareness.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-awareness.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-awareness.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-16",
+    "resolved": false,
+    "createdAt": 1777971183015
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-awareness.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-awareness.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-awareness.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-awareness.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-17",
+    "resolved": false,
+    "createdAt": 1777971183342
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-card.md",
+    "description": "Broken link: [[remote-agent-authentication]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-card.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-card.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-card.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-18",
+    "resolved": false,
+    "createdAt": 1777971183675
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-hooks.md",
+    "description": "Broken link: [[model-hooks]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-19",
+    "resolved": false,
+    "createdAt": 1777971184010
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-hooks.md",
+    "description": "Broken link: [[model-hooks]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-20",
+    "resolved": false,
+    "createdAt": 1777971184184
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-hooks.md",
+    "description": "Broken link: [[model-hooks]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-21",
+    "resolved": false,
+    "createdAt": 1777971184518
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-skills-management.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-skills-management.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-skills-management.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-skills-management.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-22",
+    "resolved": false,
+    "createdAt": 1777971184872
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-skills.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-skills.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-skills.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-skills.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-23",
+    "resolved": false,
+    "createdAt": 1777971185214
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-skills.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-skills.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-skills.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-skills.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-24",
+    "resolved": false,
+    "createdAt": 1777971185560
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-skills.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-skills.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-skills.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-skills.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-25",
+    "resolved": false,
+    "createdAt": 1777971185918
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-skills.md",
+    "description": "Broken link: [[skill-security]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-skills.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-skills.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-skills.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-26",
+    "resolved": false,
+    "createdAt": 1777971186266
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-skills.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-skills.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-skills.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-skills.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-27",
+    "resolved": false,
+    "createdAt": 1777971186612
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-skills.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-skills.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-skills.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-skills.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-28",
+    "resolved": false,
+    "createdAt": 1777971186965
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/agent-skills.md",
+    "description": "Broken link: [[agentic-ergonomics]] — target page not found.",
+    "affectedPages": [
+      "concepts/agent-skills.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/agent-skills.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/agent-skills.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-29",
+    "resolved": false,
+    "createdAt": 1777971187316
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/anchored-paths.md",
+    "description": "Broken link: [[directory-matching]] — target page not found.",
+    "affectedPages": [
+      "concepts/anchored-paths.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/anchored-paths.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/anchored-paths.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-30",
+    "resolved": false,
+    "createdAt": 1777971937585
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/anchored-paths.md",
+    "description": "Broken link: [[directory-matching]] — target page not found.",
+    "affectedPages": [
+      "concepts/anchored-paths.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/anchored-paths.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/anchored-paths.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-31",
+    "resolved": false,
+    "createdAt": 1777971937779
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/atomic-pull-requests.md",
+    "description": "Broken link: [[review-frontend]] — target page not found.",
+    "affectedPages": [
+      "concepts/atomic-pull-requests.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/atomic-pull-requests.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/atomic-pull-requests.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-32",
+    "resolved": false,
+    "createdAt": 1777971937940
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/auto-mode.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/auto-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/auto-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/auto-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-33",
+    "resolved": false,
+    "createdAt": 1777971938086
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/auto-mode.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/auto-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/auto-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/auto-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-34",
+    "resolved": false,
+    "createdAt": 1777971938246
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/automated-review-tool.md",
+    "description": "Broken link: [[combined-workflows]] — target page not found.",
+    "affectedPages": [
+      "concepts/automated-review-tool.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/automated-review-tool.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/automated-review-tool.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-35",
+    "resolved": false,
+    "createdAt": 1777971938399
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/automated-review-tool.md",
+    "description": "Broken link: [[combined-workflows]] — target page not found.",
+    "affectedPages": [
+      "concepts/automated-review-tool.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/automated-review-tool.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/automated-review-tool.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-36",
+    "resolved": false,
+    "createdAt": 1777971938559
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/background-processes.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/background-processes.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/background-processes.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/background-processes.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-37",
+    "resolved": false,
+    "createdAt": 1777971938712
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/bundled-vs-unbundled.md",
+    "description": "Broken link: [[@google/gemini-cli-core]] — target page not found.",
+    "affectedPages": [
+      "concepts/bundled-vs-unbundled.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/bundled-vs-unbundled.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/bundled-vs-unbundled.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-38",
+    "resolved": false,
+    "createdAt": 1777971938865
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/bundled-vs-unbundled.md",
+    "description": "Broken link: [[@google/gemini-cli-core]] — target page not found.",
+    "affectedPages": [
+      "concepts/bundled-vs-unbundled.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/bundled-vs-unbundled.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/bundled-vs-unbundled.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-39",
+    "resolved": false,
+    "createdAt": 1777971939025
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/bundled-vs-unbundled.md",
+    "description": "Broken link: [[@google/gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/bundled-vs-unbundled.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/bundled-vs-unbundled.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/bundled-vs-unbundled.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-40",
+    "resolved": false,
+    "createdAt": 1777971939357
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/bundled-vs-unbundled.md",
+    "description": "Broken link: [[@google/gemini-cli-core]] — target page not found.",
+    "affectedPages": [
+      "concepts/bundled-vs-unbundled.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/bundled-vs-unbundled.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/bundled-vs-unbundled.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-41",
+    "resolved": false,
+    "createdAt": 1777971939683
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/checkpointing.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/checkpointing.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/checkpointing.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/checkpointing.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-42",
+    "resolved": false,
+    "createdAt": 1777971939996
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/cli-options.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/cli-options.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/cli-options.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/cli-options.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-43",
+    "resolved": false,
+    "createdAt": 1777971940337
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/cli-options.md",
+    "description": "Broken link: [[output-formats]] — target page not found.",
+    "affectedPages": [
+      "concepts/cli-options.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/cli-options.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/cli-options.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-44",
+    "resolved": false,
+    "createdAt": 1777971940671
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/cli-options.md",
+    "description": "Broken link: [[interactive-commands]] — target page not found.",
+    "affectedPages": [
+      "concepts/cli-options.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/cli-options.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/cli-options.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-45",
+    "resolved": false,
+    "createdAt": 1777971941005
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/cli-options.md",
+    "description": "Broken link: [[output-formats]] — target page not found.",
+    "affectedPages": [
+      "concepts/cli-options.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/cli-options.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/cli-options.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-46",
+    "resolved": false,
+    "createdAt": 1777971941346
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/cli-options.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/cli-options.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/cli-options.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/cli-options.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-47",
+    "resolved": false,
+    "createdAt": 1777971941687
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/cli-options.md",
+    "description": "Broken link: [[interactive-commands]] — target page not found.",
+    "affectedPages": [
+      "concepts/cli-options.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/cli-options.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/cli-options.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-48",
+    "resolved": false,
+    "createdAt": 1777971942028
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/cli-options.md",
+    "description": "Broken link: [[output-formats]] — target page not found.",
+    "affectedPages": [
+      "concepts/cli-options.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/cli-options.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/cli-options.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-49",
+    "resolved": false,
+    "createdAt": 1777971942383
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/command-precedence.md",
+    "description": "Broken link: [[project-commands-directory]] — target page not found.",
+    "affectedPages": [
+      "concepts/command-precedence.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/command-precedence.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/command-precedence.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-50",
+    "resolved": false,
+    "createdAt": 1777971942751
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/confirmation-prompts.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/confirmation-prompts.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/confirmation-prompts.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/confirmation-prompts.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-51",
+    "resolved": false,
+    "createdAt": 1777971942924
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/context-hierarchy.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/context-hierarchy.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-52",
+    "resolved": false,
+    "createdAt": 1777971943100
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/context-hierarchy.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/context-hierarchy.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-53",
+    "resolved": false,
+    "createdAt": 1777971943448
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/context-hierarchy.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/context-hierarchy.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-54",
+    "resolved": false,
+    "createdAt": 1777971943833
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/context-hierarchy.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/context-hierarchy.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-55",
+    "resolved": false,
+    "createdAt": 1777971944172
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/context-hierarchy.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/context-hierarchy.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/context-hierarchy.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-56",
+    "resolved": false,
+    "createdAt": 1777971944513
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/context-injection.md",
+    "description": "Broken link: [[grounding]] — target page not found.",
+    "affectedPages": [
+      "concepts/context-injection.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/context-injection.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/context-injection.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-57",
+    "resolved": false,
+    "createdAt": 1777971944896
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/context-injection.md",
+    "description": "Broken link: [[grounding]] — target page not found.",
+    "affectedPages": [
+      "concepts/context-injection.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/context-injection.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/context-injection.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-58",
+    "resolved": false,
+    "createdAt": 1777971945234
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/context-injection.md",
+    "description": "Broken link: [[grounding]] — target page not found.",
+    "affectedPages": [
+      "concepts/context-injection.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/context-injection.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/context-injection.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-59",
+    "resolved": false,
+    "createdAt": 1777971945630
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/contribution-workflow.md",
+    "description": "Broken link: [[review-frontend]] — target page not found.",
+    "affectedPages": [
+      "concepts/contribution-workflow.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/contribution-workflow.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/contribution-workflow.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-60",
+    "resolved": false,
+    "createdAt": 1777971945849
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/custom-commands.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/custom-commands.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/custom-commands.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/custom-commands.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-61",
+    "resolved": false,
+    "createdAt": 1777971946185
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/custom-commands.md",
+    "description": "Broken link: [[project-commands-directory]] — target page not found.",
+    "affectedPages": [
+      "concepts/custom-commands.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/custom-commands.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/custom-commands.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-62",
+    "resolved": false,
+    "createdAt": 1777971946545
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/custom-commands.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/custom-commands.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/custom-commands.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/custom-commands.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-63",
+    "resolved": false,
+    "createdAt": 1777971946721
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/custom-commands.md",
+    "description": "Broken link: [[commands-reload]] — target page not found.",
+    "affectedPages": [
+      "concepts/custom-commands.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/custom-commands.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/custom-commands.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64",
+    "resolved": false,
+    "createdAt": 1777971946920
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/custom-commands.md",
+    "description": "Broken link: [[commands-list]] — target page not found.",
+    "affectedPages": [
+      "concepts/custom-commands.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/custom-commands.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/custom-commands.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-65",
+    "resolved": false,
+    "createdAt": 1777971947110
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[wrapper-scripts]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-66",
+    "resolved": false,
+    "createdAt": 1777971947730
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[user-isolation]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-67",
+    "resolved": false,
+    "createdAt": 1777971948409
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[telemetry-and-auditing]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-68",
+    "resolved": false,
+    "createdAt": 1777971948598
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[enterprise-authentication]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-69",
+    "resolved": false,
+    "createdAt": 1777971948979
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-70",
+    "resolved": false,
+    "createdAt": 1777971952187
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[wrapper-scripts]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-71",
+    "resolved": false,
+    "createdAt": 1777971952360
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[user-isolation]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-72",
+    "resolved": false,
+    "createdAt": 1777971952563
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[wrapper-scripts]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-73",
+    "resolved": false,
+    "createdAt": 1777971952751
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[telemetry-and-auditing]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-74",
+    "resolved": false,
+    "createdAt": 1777971952938
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/enterprise-configuration.md",
+    "description": "Broken link: [[enterprise-authentication]] — target page not found.",
+    "affectedPages": [
+      "concepts/enterprise-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/enterprise-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-75",
+    "resolved": false,
+    "createdAt": 1777971953119
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-development-workflow.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-development-workflow.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-development-workflow.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-development-workflow.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-76",
+    "resolved": false,
+    "createdAt": 1777971953302
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-development-workflow.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-development-workflow.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-development-workflow.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-development-workflow.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-77",
+    "resolved": false,
+    "createdAt": 1777971953481
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-development-workflow.md",
+    "description": "Broken link: [[extension-release-practices]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-development-workflow.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-development-workflow.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-development-workflow.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-78",
+    "resolved": false,
+    "createdAt": 1777971953656
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-distribution.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-distribution.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-distribution.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-distribution.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-79",
+    "resolved": false,
+    "createdAt": 1777971953844
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-distribution.md",
+    "description": "Broken link: [[gemini-cli-extension-gallery]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-distribution.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-distribution.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-distribution.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-80",
+    "resolved": false,
+    "createdAt": 1777971954016
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-distribution.md",
+    "description": "Broken link: [[platform-specific-archives]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-distribution.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-distribution.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-distribution.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-81",
+    "resolved": false,
+    "createdAt": 1777971954210
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-distribution.md",
+    "description": "Broken link: [[platform-specific-archives]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-distribution.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-distribution.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-distribution.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-82",
+    "resolved": false,
+    "createdAt": 1777971954419
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-distribution.md",
+    "description": "Broken link: [[gemini-cli-extension-gallery]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-distribution.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-distribution.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-distribution.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-83",
+    "resolved": false,
+    "createdAt": 1777971954602
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-distribution.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-distribution.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-distribution.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-distribution.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-84",
+    "resolved": false,
+    "createdAt": 1777971954798
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-gallery-discovery.md",
+    "description": "Broken link: [[gemini-cli-extension-gallery]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-gallery-discovery.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-gallery-discovery.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-gallery-discovery.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-85",
+    "resolved": false,
+    "createdAt": 1777971954983
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-gallery-discovery.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-gallery-discovery.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-gallery-discovery.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-gallery-discovery.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-86",
+    "resolved": false,
+    "createdAt": 1777971955357
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-gallery-discovery.md",
+    "description": "Broken link: [[gemini-cli-extension-gallery]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-gallery-discovery.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-gallery-discovery.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-gallery-discovery.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-87",
+    "resolved": false,
+    "createdAt": 1777971955725
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-gallery-discovery.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-gallery-discovery.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-gallery-discovery.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-gallery-discovery.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-88",
+    "resolved": false,
+    "createdAt": 1777971956087
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-lifecycle.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-lifecycle.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-lifecycle.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-lifecycle.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-89",
+    "resolved": false,
+    "createdAt": 1777971956442
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-lifecycle.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-lifecycle.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-lifecycle.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-lifecycle.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-90",
+    "resolved": false,
+    "createdAt": 1777971956610
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-migration.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-migration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-migration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-migration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-91",
+    "resolved": false,
+    "createdAt": 1777971956943
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-migration.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-migration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-migration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-migration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-92",
+    "resolved": false,
+    "createdAt": 1777971957268
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-security-best-practices.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-security-best-practices.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-security-best-practices.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-security-best-practices.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-93",
+    "resolved": false,
+    "createdAt": 1777971957436
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/extension-security-best-practices.md",
+    "description": "Broken link: [[gemini-cli-extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/extension-security-best-practices.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/extension-security-best-practices.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/extension-security-best-practices.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-94",
+    "resolved": false,
+    "createdAt": 1777971957785
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/file-ignoring.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/file-ignoring.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/file-ignoring.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/file-ignoring.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-95",
+    "resolved": false,
+    "createdAt": 1777971958139
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/file-ignoring.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/file-ignoring.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/file-ignoring.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/file-ignoring.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-96",
+    "resolved": false,
+    "createdAt": 1777971958479
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/file-ignoring.md",
+    "description": "Broken link: [[directory-matching]] — target page not found.",
+    "affectedPages": [
+      "concepts/file-ignoring.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/file-ignoring.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/file-ignoring.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-97",
+    "resolved": false,
+    "createdAt": 1777971958855
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/file-ignoring.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/file-ignoring.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/file-ignoring.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/file-ignoring.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-98",
+    "resolved": false,
+    "createdAt": 1777971959218
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/file-ignoring.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/file-ignoring.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/file-ignoring.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/file-ignoring.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-99",
+    "resolved": false,
+    "createdAt": 1777971959572
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/git-worktrees.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/git-worktrees.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/git-worktrees.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/git-worktrees.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-100",
+    "resolved": false,
+    "createdAt": 1777971959961
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/git-worktrees.md",
+    "description": "Broken link: [[forking-conversations]] — target page not found.",
+    "affectedPages": [
+      "concepts/git-worktrees.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/git-worktrees.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/git-worktrees.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-101",
+    "resolved": false,
+    "createdAt": 1777971960316
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/git-worktrees.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/git-worktrees.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/git-worktrees.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/git-worktrees.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-102",
+    "resolved": false,
+    "createdAt": 1777971960470
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/git-worktrees.md",
+    "description": "Broken link: [[forking-conversations]] — target page not found.",
+    "affectedPages": [
+      "concepts/git-worktrees.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/git-worktrees.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/git-worktrees.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-103",
+    "resolved": false,
+    "createdAt": 1777971960641
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/glob-patterns.md",
+    "description": "Broken link: [[directory-matching]] — target page not found.",
+    "affectedPages": [
+      "concepts/glob-patterns.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/glob-patterns.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/glob-patterns.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-104",
+    "resolved": false,
+    "createdAt": 1777971961023
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/glob-patterns.md",
+    "description": "Broken link: [[directory-matching]] — target page not found.",
+    "affectedPages": [
+      "concepts/glob-patterns.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/glob-patterns.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/glob-patterns.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-105",
+    "resolved": false,
+    "createdAt": 1777971961387
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/headless-mode.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/headless-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/headless-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/headless-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-106",
+    "resolved": false,
+    "createdAt": 1777971961801
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/headless-mode.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/headless-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/headless-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/headless-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-107",
+    "resolved": false,
+    "createdAt": 1777971961990
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/headless-mode.md",
+    "description": "Broken link: [[Automation tutorial]] — target page not found.",
+    "affectedPages": [
+      "concepts/headless-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/headless-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/headless-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-108",
+    "resolved": false,
+    "createdAt": 1777971962400
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hierarchical-context.md",
+    "description": "Broken link: [[GEMINI.md]] — target page not found.",
+    "affectedPages": [
+      "concepts/hierarchical-context.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hierarchical-context.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hierarchical-context.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-109",
+    "resolved": false,
+    "createdAt": 1777971962587
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hierarchical-context.md",
+    "description": "Broken link: [[GEMINI.md]] — target page not found.",
+    "affectedPages": [
+      "concepts/hierarchical-context.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hierarchical-context.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hierarchical-context.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-110",
+    "resolved": false,
+    "createdAt": 1777971962796
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hierarchical-context.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/hierarchical-context.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hierarchical-context.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hierarchical-context.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-111",
+    "resolved": false,
+    "createdAt": 1777971963234
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hook-events.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/hook-events.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hook-events.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hook-events.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-112",
+    "resolved": false,
+    "createdAt": 1777971963449
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hooks.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-113",
+    "resolved": false,
+    "createdAt": 1777971963886
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hooks.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-114",
+    "resolved": false,
+    "createdAt": 1777971964090
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hooks.md",
+    "description": "Broken link: [[model-hooks]] — target page not found.",
+    "affectedPages": [
+      "concepts/hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-115",
+    "resolved": false,
+    "createdAt": 1777971964320
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hooks.md",
+    "description": "Broken link: [[lifecycle-hooks]] — target page not found.",
+    "affectedPages": [
+      "concepts/hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-116",
+    "resolved": false,
+    "createdAt": 1777971964511
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hooks.md",
+    "description": "Broken link: [[model-hooks]] — target page not found.",
+    "affectedPages": [
+      "concepts/hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-117",
+    "resolved": false,
+    "createdAt": 1777971964703
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hooks.md",
+    "description": "Broken link: [[lifecycle-hooks]] — target page not found.",
+    "affectedPages": [
+      "concepts/hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-118",
+    "resolved": false,
+    "createdAt": 1777971964897
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/hooks.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/hooks.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/hooks.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/hooks.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-119",
+    "resolved": false,
+    "createdAt": 1777971965098
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/ide-integration.md",
+    "description": "Broken link: [[ide-command]] — target page not found.",
+    "affectedPages": [
+      "concepts/ide-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/ide-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/ide-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-120",
+    "resolved": false,
+    "createdAt": 1777971965300
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/ide-integration.md",
+    "description": "Broken link: [[workspace-context]] — target page not found.",
+    "affectedPages": [
+      "concepts/ide-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/ide-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/ide-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-121",
+    "resolved": false,
+    "createdAt": 1777971965502
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/ide-integration.md",
+    "description": "Broken link: [[native-diffing]] — target page not found.",
+    "affectedPages": [
+      "concepts/ide-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/ide-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/ide-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-122",
+    "resolved": false,
+    "createdAt": 1777971965690
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/ide-integration.md",
+    "description": "Broken link: [[ide-command]] — target page not found.",
+    "affectedPages": [
+      "concepts/ide-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/ide-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/ide-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-123",
+    "resolved": false,
+    "createdAt": 1777971966026
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/implementation-transition.md",
+    "description": "Broken link: [[combined-workflows]] — target page not found.",
+    "affectedPages": [
+      "concepts/implementation-transition.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/implementation-transition.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/implementation-transition.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-124",
+    "resolved": false,
+    "createdAt": 1777971966366
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/implementation-transition.md",
+    "description": "Broken link: [[combined-workflows]] — target page not found.",
+    "affectedPages": [
+      "concepts/implementation-transition.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/implementation-transition.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/implementation-transition.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-125",
+    "resolved": false,
+    "createdAt": 1777971966521
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/implementation-transition.md",
+    "description": "Broken link: [[combined-workflows]] — target page not found.",
+    "affectedPages": [
+      "concepts/implementation-transition.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/implementation-transition.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/implementation-transition.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-126",
+    "resolved": false,
+    "createdAt": 1777971966842
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/integration-testing.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/integration-testing.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/integration-testing.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/integration-testing.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-127",
+    "resolved": false,
+    "createdAt": 1777971967175
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/integration-testing.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/integration-testing.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/integration-testing.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/integration-testing.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-128",
+    "resolved": false,
+    "createdAt": 1777971967362
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/json-output-format.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/json-output-format.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/json-output-format.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/json-output-format.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-129",
+    "resolved": false,
+    "createdAt": 1777971967716
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/json-output-format.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/json-output-format.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/json-output-format.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/json-output-format.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-130",
+    "resolved": false,
+    "createdAt": 1777971968057
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/manual-mode.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/manual-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/manual-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/manual-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-131",
+    "resolved": false,
+    "createdAt": 1777971968384
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/manual-mode.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/manual-mode.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/manual-mode.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/manual-mode.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-132",
+    "resolved": false,
+    "createdAt": 1777971968711
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-resources.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-resources.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-resources.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-resources.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-133",
+    "resolved": false,
+    "createdAt": 1777971969038
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-resources.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-resources.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-resources.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-resources.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-134",
+    "resolved": false,
+    "createdAt": 1777971969205
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-resources.md",
+    "description": "Broken link: [[web-fetch-tool]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-resources.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-resources.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-resources.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-135",
+    "resolved": false,
+    "createdAt": 1777971969532
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-integration.md",
+    "description": "Broken link: [[mcp-transport-mechanisms]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-136",
+    "resolved": false,
+    "createdAt": 1777971969858
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-integration.md",
+    "description": "Broken link: [[mcp-transport-mechanisms]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-137",
+    "resolved": false,
+    "createdAt": 1777971970030
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-integration.md",
+    "description": "Broken link: [[mcp-authentication]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-138",
+    "resolved": false,
+    "createdAt": 1777971970200
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-integration.md",
+    "description": "Broken link: [[environment-sanitization]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-139",
+    "resolved": false,
+    "createdAt": 1777971970520
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-integration.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-140",
+    "resolved": false,
+    "createdAt": 1777971970702
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-integration.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-141",
+    "resolved": false,
+    "createdAt": 1777971971035
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-integration.md",
+    "description": "Broken link: [[mcp-transport-mechanisms]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-142",
+    "resolved": false,
+    "createdAt": 1777971971203
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-integration.md",
+    "description": "Broken link: [[environment-sanitization]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-143",
+    "resolved": false,
+    "createdAt": 1777971971529
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-integration.md",
+    "description": "Broken link: [[mcp-authentication]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-integration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-integration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-144",
+    "resolved": false,
+    "createdAt": 1777971971829
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-management.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-management.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-management.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-management.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-145",
+    "resolved": false,
+    "createdAt": 1777971972262
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-management.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-management.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-management.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-management.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-146",
+    "resolved": false,
+    "createdAt": 1777971972464
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-management.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-management.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-management.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-management.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-147",
+    "resolved": false,
+    "createdAt": 1777971972692
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-server-management.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-server-management.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-server-management.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-server-management.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-148",
+    "resolved": false,
+    "createdAt": 1777971975637
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-servers.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-servers.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-servers.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-servers.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-149",
+    "resolved": false,
+    "createdAt": 1777971975819
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-servers.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-servers.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-servers.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-servers.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-150",
+    "resolved": false,
+    "createdAt": 1777971976019
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-servers.md",
+    "description": "Broken link: [[docker]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-servers.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-servers.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-servers.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-151",
+    "resolved": false,
+    "createdAt": 1777971976213
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-servers.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-servers.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-servers.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-servers.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-152",
+    "resolved": false,
+    "createdAt": 1777971976395
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-servers.md",
+    "description": "Broken link: [[extensions]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-servers.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-servers.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-servers.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-153",
+    "resolved": false,
+    "createdAt": 1777971976591
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-tools.md",
+    "description": "Broken link: [[environment-sanitization]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-tools.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-tools.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-tools.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-154",
+    "resolved": false,
+    "createdAt": 1777971976777
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-tools.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-tools.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-tools.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-tools.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-155",
+    "resolved": false,
+    "createdAt": 1777971976974
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-tools.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-tools.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-tools.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-tools.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-156",
+    "resolved": false,
+    "createdAt": 1777971977146
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mcp-tools.md",
+    "description": "Broken link: [[environment-sanitization]] — target page not found.",
+    "affectedPages": [
+      "concepts/mcp-tools.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mcp-tools.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mcp-tools.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-157",
+    "resolved": false,
+    "createdAt": 1777971977343
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/memory-feature.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/memory-feature.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/memory-feature.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/memory-feature.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-158",
+    "resolved": false,
+    "createdAt": 1777971977720
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/memory-feature.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/memory-feature.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/memory-feature.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/memory-feature.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-159",
+    "resolved": false,
+    "createdAt": 1777971978097
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/memory-feature.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/memory-feature.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/memory-feature.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/memory-feature.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-160",
+    "resolved": false,
+    "createdAt": 1777971978305
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/memory-feature.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/memory-feature.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/memory-feature.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/memory-feature.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-161",
+    "resolved": false,
+    "createdAt": 1777971978497
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mid-turn-refinement.md",
+    "description": "Broken link: [[combined-workflows]] — target page not found.",
+    "affectedPages": [
+      "concepts/mid-turn-refinement.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mid-turn-refinement.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mid-turn-refinement.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-162",
+    "resolved": false,
+    "createdAt": 1777971978699
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mid-turn-refinement.md",
+    "description": "Broken link: [[grounding]] — target page not found.",
+    "affectedPages": [
+      "concepts/mid-turn-refinement.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mid-turn-refinement.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mid-turn-refinement.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-163",
+    "resolved": false,
+    "createdAt": 1777971978907
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mid-turn-refinement.md",
+    "description": "Broken link: [[grounding]] — target page not found.",
+    "affectedPages": [
+      "concepts/mid-turn-refinement.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mid-turn-refinement.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mid-turn-refinement.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-164",
+    "resolved": false,
+    "createdAt": 1777971979095
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/mid-turn-refinement.md",
+    "description": "Broken link: [[combined-workflows]] — target page not found.",
+    "affectedPages": [
+      "concepts/mid-turn-refinement.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/mid-turn-refinement.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/mid-turn-refinement.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-165",
+    "resolved": false,
+    "createdAt": 1777971979289
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/model-configuration.md",
+    "description": "Broken link: [[combined-workflows]] — target page not found.",
+    "affectedPages": [
+      "concepts/model-configuration.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/model-configuration.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/model-configuration.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-166",
+    "resolved": false,
+    "createdAt": 1777971979478
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/model-overrides.md",
+    "description": "Broken link: [[override-specificity]] — target page not found.",
+    "affectedPages": [
+      "concepts/model-overrides.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/model-overrides.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/model-overrides.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-167",
+    "resolved": false,
+    "createdAt": 1777971979652
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/model-overrides.md",
+    "description": "Broken link: [[override-specificity]] — target page not found.",
+    "affectedPages": [
+      "concepts/model-overrides.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/model-overrides.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/model-overrides.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-168",
+    "resolved": false,
+    "createdAt": 1777971979845
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/model-routing.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/model-routing.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/model-routing.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/model-routing.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-169",
+    "resolved": false,
+    "createdAt": 1777971980035
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/model-routing.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/model-routing.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/model-routing.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/model-routing.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-170",
+    "resolved": false,
+    "createdAt": 1777971980223
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/model-selection.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/model-selection.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/model-selection.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/model-selection.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-171",
+    "resolved": false,
+    "createdAt": 1777971980403
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/model-selection.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/model-selection.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/model-selection.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/model-selection.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-172",
+    "resolved": false,
+    "createdAt": 1777971980583
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/model-selection.md",
+    "description": "Broken link: [[session]] — target page not found.",
+    "affectedPages": [
+      "concepts/model-selection.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/model-selection.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/model-selection.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-173",
+    "resolved": false,
+    "createdAt": 1777971980757
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/model-selection.md",
+    "description": "Broken link: [[session-management]] — target page not found.",
+    "affectedPages": [
+      "concepts/model-selection.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/model-selection.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/model-selection.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-174",
+    "resolved": false,
+    "createdAt": 1777971980876
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/monorepo-structure.md",
+    "description": "Broken link: [[@google/gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/monorepo-structure.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/monorepo-structure.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/monorepo-structure.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-175",
+    "resolved": false,
+    "createdAt": 1777971981036
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/monorepo-structure.md",
+    "description": "Broken link: [[@google/gemini-cli-core]] — target page not found.",
+    "affectedPages": [
+      "concepts/monorepo-structure.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/monorepo-structure.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/monorepo-structure.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-176",
+    "resolved": false,
+    "createdAt": 1777971981195
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/monorepo-structure.md",
+    "description": "Broken link: [[@google/gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/monorepo-structure.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/monorepo-structure.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/monorepo-structure.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-177",
+    "resolved": false,
+    "createdAt": 1777971981349
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/monorepo-structure.md",
+    "description": "Broken link: [[@google/gemini-cli-core]] — target page not found.",
+    "affectedPages": [
+      "concepts/monorepo-structure.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/monorepo-structure.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/monorepo-structure.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-178",
+    "resolved": false,
+    "createdAt": 1777971981515
+  },
+  {
+    "type": "confirm",
+    "title": "Fix broken link in concepts/multi-step-workflows.md",
+    "description": "Broken link: [[gemini-cli]] — target page not found.",
+    "affectedPages": [
+      "concepts/multi-step-workflows.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/multi-step-workflows.md"
+      },
+      {
+        "label": "Delete Page",
+        "action": "delete:E:/My Wiki/Gemini CLI/wiki/concepts/multi-step-workflows.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-179",
+    "resolved": false,
+    "createdAt": 1777971981667
+  }
+]

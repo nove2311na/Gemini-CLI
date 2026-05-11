@@ -1,0 +1,79 @@
+{
+    "generated_at":  "2026-05-06T02:08:27.3533979+07:00",
+    "source_dir":  ".gemini/subagents",
+    "mirror_dir":  ".gemini/agents",
+    "mirror_prefix":  "mirror--",
+    "generated_agents":  [
+                             "cli-support-engineer",
+                             "content-publisher",
+                             "course-qa-reviewer",
+                             "document-ingester",
+                             "gemini-course-master",
+                             "notebooklm-producer",
+                             "wiki-librarian"
+                         ],
+    "generated_files":  [
+                            "mirror--cli-support-engineer.md",
+                            "mirror--content-publisher.md",
+                            "mirror--course-qa-reviewer.md",
+                            "mirror--document-ingester.md",
+                            "mirror--gemini-course-master.md",
+                            "mirror--notebooklm-producer.md",
+                            "mirror--wiki-librarian.md"
+                        ],
+    "generated_tools":  {
+                            "cli-support-engineer":  [
+                                                         "read_file",
+                                                         "list_directory",
+                                                         "grep_search",
+                                                         "glob",
+                                                         "run_shell_command"
+                                                     ],
+                            "content-publisher":  [
+                                                      "read_file",
+                                                      "write_file",
+                                                      "list_directory",
+                                                      "grep_search",
+                                                      "glob"
+                                                  ],
+                            "course-qa-reviewer":  [
+                                                       "read_file",
+                                                       "write_file",
+                                                       "list_directory",
+                                                       "grep_search",
+                                                       "glob"
+                                                   ],
+                            "document-ingester":  [
+                                                      "read_file",
+                                                      "write_file",
+                                                      "list_directory",
+                                                      "glob",
+                                                      "run_shell_command"
+                                                  ],
+                            "gemini-course-master":  [
+                                                         "read_file",
+                                                         "write_file",
+                                                         "list_directory",
+                                                         "grep_search",
+                                                         "glob"
+                                                     ],
+                            "notebooklm-producer":  [
+                                                        "read_file",
+                                                        "write_file",
+                                                        "list_directory",
+                                                        "grep_search",
+                                                        "glob",
+                                                        "run_shell_command"
+                                                    ],
+                            "wiki-librarian":  [
+                                                   "read_file",
+                                                   "write_file",
+                                                   "list_directory",
+                                                   "grep_search",
+                                                   "glob"
+                                               ]
+                        },
+    "native_agents":  [
+                          "project-director"
+                      ]
+}

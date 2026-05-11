@@ -1,0 +1,724 @@
+{
+  "entries": {
+    "1. Gemini CLI documentation.md": {
+      "hash": "51e9bd65182f7ca441f1cad9f0f6d69bf9f5a245894f49b3e661ee40e95fec4b",
+      "timestamp": 1777960944360,
+      "filesWritten": [
+        "wiki/sources/1-gemini-cli-documentation.md",
+        "wiki/entities/agent-skills.md",
+        "wiki/entities/gemini-3.md",
+        "wiki/entities/mcp-servers.md",
+        "wiki/concepts/headless-mode.md"
+      ]
+    },
+    "2. Get started with Gemini CLI.md": {
+      "hash": "df58f3433a8592bb8740eecf9d4b3eaf98588284b5fcba37b4c03c556fac5cf2",
+      "timestamp": 1777961067954,
+      "filesWritten": [
+        "wiki/sources/2-gemini-cli-get-started.md",
+        "wiki/concepts/permission-system.md",
+        "wiki/concepts/multi-step-workflows.md",
+        "wiki/concepts/visual-file-analysis.md",
+        "wiki/concepts/token-usage-tracking.md",
+        "wiki/entities/google-cloud-project.md"
+      ]
+    },
+    "3. Gemini CLI installation, execution, and releases.md": {
+      "hash": "c804f563ef85388dbf3ed399b18d20ee8494f12e602cd0de6e47ec33f549f217",
+      "timestamp": 1777961172200,
+      "filesWritten": [
+        "wiki/sources/3-gemini-cli-installation-execution-and-releases.md",
+        "wiki/entities/cloud-shell.md",
+        "wiki/entities/cloud-workstations.md",
+        "wiki/entities/npm.md",
+        "wiki/entities/homebrew.md",
+        "wiki/entities/macports.md",
+        "wiki/entities/anaconda.md"
+      ]
+    },
+    "4. Gemini CLI authentication setup.md": {
+      "hash": "8f67936b3c00db9872649e0f855e05a69d21ee54636414a084121fc22155c557",
+      "timestamp": 1777961285556,
+      "filesWritten": [
+        "wiki/sources/4-gemini-cli-authentication-setup.md",
+        "wiki/entities/google-accounts.md",
+        "wiki/entities/google-workspace-accounts.md",
+        "wiki/entities/google-ai-studio.md",
+        "wiki/entities/vertex-ai.md",
+        "wiki/entities/google-cloud-projects.md"
+      ]
+    },
+    "5. Gemini CLI cheatsheet.md": {
+      "hash": "78f30f24ed8bb73f289afb9b4a1e505066aa01e1835d31d0a4079f49e7bc762f",
+      "timestamp": 1777961421114,
+      "filesWritten": [
+        "wiki/sources/5-gemini-cli-cheatsheet.md",
+        "wiki/concepts/cli-options.md",
+        "wiki/concepts/model-aliases.md",
+        "wiki/concepts/approval-modes.md",
+        "wiki/concepts/mcp-server-management.md"
+      ]
+    },
+    "6. Gemini 3 Pro and Gemini 3 Flash on Gemini CLI.md": {
+      "hash": "584a059f5428a235b233b0897205e5bdffecfbfeb12130bfea4d053d894c82df",
+      "timestamp": 1777961569029,
+      "filesWritten": [
+        "wiki/sources/6-gemini-3-pro-and-gemini-3-flash-on-gemini-cli.md",
+        "wiki/entities/gemini-3-pro.md",
+        "wiki/entities/gemini-3-flash.md",
+        "wiki/entities/gemini-code-assist.md",
+        "wiki/concepts/model-routing.md",
+        "wiki/concepts/usage-limits.md",
+        "wiki/entities/google-cloud-settings-admin.md"
+      ]
+    },
+    "1. File management with Gemini CLI.md": {
+      "hash": "3bac032ac987f9130a0c121b059068f49bcd1c85ae9c0489208c4f0f3fd5f9fc",
+      "timestamp": 1777961693884,
+      "filesWritten": [
+        "wiki/sources/1. File management with Gemini CLI.md",
+        "wiki/entities/file-inclusion-syntax.md",
+        "wiki/entities/glob-tool.md",
+        "wiki/entities/list-directory-tool.md",
+        "wiki/entities/replace-tool.md",
+        "wiki/entities/write-file-tool.md",
+        "wiki/entities/run-shell-command-tool.md"
+      ]
+    },
+    "10. Automate tasks with headless mode.md": {
+      "hash": "08ca3647c334b157152e12fcd772243b05cdedb6867c3f1afd05e7def9ef76bc",
+      "timestamp": 1777961846993,
+      "filesWritten": [
+        "wiki/sources/10-automate-tasks-with-headless-mode.md",
+        "wiki/concepts/headless-mode.md",
+        "wiki/concepts/stdout-piping.md",
+        "wiki/concepts/json-output-format.md",
+        "wiki/entities/gcommit.md"
+      ]
+    },
+    "2. Get started with Agent Skills.md": {
+      "hash": "4e9530bdfb798416dfa1001a224ea748cc99b859b157a01291682bb6338efb93",
+      "timestamp": 1777962029286,
+      "filesWritten": [
+        "wiki/sources/2-get-started-with-agent-skills.md",
+        "wiki/entities/agent-skills.md",
+        "wiki/entities/skill-creator.md",
+        "wiki/entities/api-auditor.md",
+        "wiki/concepts/skill-discovery.md",
+        "wiki/concepts/skill-activation.md"
+      ]
+    },
+    "3. Manage context and memory.md": {
+      "hash": "81dfbc8841024eec1ae908b367871d3b3c1cd1feb7c51ac578c9d90ac0fe9168",
+      "timestamp": 1777962153035,
+      "filesWritten": [
+        "wiki/sources/3-manage-context-and-memory.md",
+        "wiki/entities/gemini-md.md",
+        "wiki/concepts/context-hierarchy.md",
+        "wiki/concepts/memory-feature.md",
+        "wiki/entities/memory-show-command.md"
+      ]
+    },
+    "4. Execute shell commands.md": {
+      "hash": "ce3cc6c0525b6a2ca65a1ff24fa6ee91eb6fd3e5c94c6a30361cb62422e747ea",
+      "timestamp": 1777962288103,
+      "filesWritten": [
+        "wiki/sources/4-execute-shell-commands.md",
+        "wiki/concepts/shell-commands.md",
+        "wiki/concepts/shell-mode.md",
+        "wiki/concepts/sandboxing.md",
+        "wiki/concepts/confirmation-prompts.md",
+        "wiki/concepts/background-processes.md",
+        "wiki/entities/shells-command.md",
+        "wiki/concepts/run-shell-command-tool.md",
+        "wiki/index.md"
+      ]
+    },
+    "5. Manage sessions and history.md": {
+      "hash": "be957f1daa39529f3e3b97f68636cbe63237c30d610ebcc507cac515f48f0c26",
+      "timestamp": 1777962393877,
+      "filesWritten": [
+        "wiki/sources/5-manage-sessions-and-history.md",
+        "wiki/concepts/selective-reversion.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "6. Plan tasks with todos.md": {
+      "hash": "07693412b3f4b6ad5582c28345ad9f1bbba53fbb48c5cce4137ecf3bfa53bc11",
+      "timestamp": 1777962475187,
+      "filesWritten": [
+        "wiki/sources/6. Plan tasks with todos.md",
+        "wiki/concepts/task-planning.md",
+        "wiki/concepts/todo-list.md",
+        "wiki/entities/write-todos-tool.md",
+        "wiki/index.md",
+        "wiki/overview.md"
+      ]
+    },
+    "7. Use Plan Mode with model steering for complex tasks.md": {
+      "hash": "125cbcc196c1028ed57e94e49f35e42af73527b24da04cfcaafe0dc43f02dec7",
+      "timestamp": 1777962621772,
+      "filesWritten": [
+        "wiki/sources/7-use-plan-mode-with-model-steering-for-complex-tasks.md",
+        "wiki/entities/redis.md",
+        "wiki/entities/notification-service.md",
+        "wiki/entities/pub-sub-pattern.md",
+        "wiki/entities/agent-skills.md",
+        "wiki/concepts/mid-turn-refinement.md",
+        "wiki/concepts/real-time-research-steering.md",
+        "wiki/concepts/implementation-transition.md"
+      ]
+    },
+    "8. Web search and fetch.md": {
+      "hash": "ef40e5870bec5447fb5ecbd4dd4bb876fc4c27d27d006b2979ea4aa5a0908466",
+      "timestamp": 1777962741085,
+      "filesWritten": [
+        "wiki/sources/8-web-search-and-fetch.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "9. Set up an MCP server.md": {
+      "hash": "8bf3fc0c52b368327017ec77209ffc3e587541e2be6c93f3f738e80bd001ca4c",
+      "timestamp": 1777962872004,
+      "filesWritten": [
+        "wiki/sources/9-set-up-an-mcp-server.md",
+        "wiki/concepts/mcp-servers.md",
+        "wiki/entities/github-mcp-server.md",
+        "wiki/entities/github-personal-access-token.md",
+        "wiki/entities/settings-json.md"
+      ]
+    },
+    "1. Gemini CLI extensions.md": {
+      "hash": "ecab449171d8cec816efc264c55c4bb6c2fd427a083d52ea69ccaaf63998aaa5",
+      "timestamp": 1777962986694,
+      "filesWritten": [
+        "wiki/sources/1. Gemini CLI extensions.md"
+      ]
+    },
+    "2. Build Gemini CLI extensions.md": {
+      "hash": "6b73befd5cace6fe1d7d540ab9f3797658e72960bb8d22aa20fe6a042f48a654",
+      "timestamp": 1777963113821,
+      "filesWritten": [
+        "wiki/sources/2-build-gemini-cli-extensions.md",
+        "wiki/entities/gemini-extension-manifest.md",
+        "wiki/entities/mcp-server-integration.md",
+        "wiki/entities/extension-settings.md",
+        "wiki/entities/extension-linking.md",
+        "wiki/concepts/extension-lifecycle.md"
+      ]
+    },
+    "3. Gemini CLI extension best practices.md": {
+      "hash": "31329e0e2c6f6803e8dfe9fc969b48a3cca0aacfdf3975645d9d7d7841b5b9b7",
+      "timestamp": 1777963270079,
+      "filesWritten": [
+        "wiki/sources/3-gemini-cli-extension-best-practices.md",
+        "wiki/entities/gemini-extension-manifest.md",
+        "wiki/entities/gemini-md-file.md",
+        "wiki/entities/extension-structure.md",
+        "wiki/concepts/extension-development-workflow.md",
+        "wiki/concepts/extension-security-best-practices.md"
+      ]
+    },
+    "III. 17. Rewind.md": {
+      "hash": "e92810b4a6560b9ca65859e355784881f081d13a0d33b23e714d13340caf65a9",
+      "timestamp": 1777964681619,
+      "filesWritten": [
+        "wiki/sources/III. 17. Rewind.md",
+        "wiki/entities/rewind-feature.md",
+        "wiki/concepts/selective-reversion.md",
+        "wiki/concepts/agent-awareness.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "III. 18. Sandboxing in Gemini CLI.md": {
+      "hash": "ce3a4505d7e2bfb83484d3c100410362c486d79cdc43e9ae6b1862e8e0551a86",
+      "timestamp": 1777964811956,
+      "filesWritten": [
+        "wiki/sources/III. 18. Sandboxing in Gemini CLI.md",
+        "wiki/concepts/sandboxing.md",
+        "wiki/concepts/sandbox-expansion.md",
+        "wiki/concepts/sandbox-profiles.md",
+        "wiki/concepts/workspace-mounting.md",
+        "wiki/concepts/tool-level-sandboxing.md"
+      ]
+    },
+    "III. 19. Gemini CLI settings (`settings` command).md": {
+      "hash": "bcaeeb8015b9ad07a338fde08c1263c36546484c0470bc7341bb87c8d07d38c6",
+      "timestamp": 1777964987541,
+      "filesWritten": [
+        "wiki/sources/III. 19. Gemini CLI settings (`settings` command).md",
+        "wiki/entities/settings-command.md",
+        "wiki/entities/memory-v2.md",
+        "wiki/entities/voice-mode.md",
+        "wiki/entities/yolo-mode.md"
+      ]
+    },
+    "1. Agent Skills.md": {
+      "hash": "ccb68d4e97260dc3999a082584ceb20960139494b3b998453c3468173b071ca4",
+      "timestamp": 1777965142533,
+      "filesWritten": [
+        "wiki/sources/1. agent-skills.md",
+        "wiki/concepts/agent-skills.md",
+        "wiki/concepts/discovery-tiers.md",
+        "wiki/concepts/skill-activation-lifecycle.md",
+        "wiki/concepts/skills-command.md",
+        "wiki/concepts/skill-scoping.md"
+      ]
+    },
+    "3. Creating Agent Skills.md": {
+      "hash": "b0cf722066d29515449af7927b4cb40158a14ca75947c055665b37fe8e471656",
+      "timestamp": 1777965286472,
+      "filesWritten": [
+        "wiki/sources/3-creating-agent-skills.md",
+        "wiki/entities/skill-creator.md",
+        "wiki/entities/SKILL.md",
+        "wiki/concepts/agent-skills.md",
+        "wiki/concepts/skill-discovery-tiers.md",
+        "wiki/concepts/skill-triggering.md"
+      ]
+    },
+    "4. Managing Agent Skills.md": {
+      "hash": "04d5dcae118a0bd7376b9adab349d764b3b53d7094c7f8e257971fba5bc42b2b",
+      "timestamp": 1777965427891,
+      "filesWritten": [
+        "wiki/sources/4-managing-agent-skills.md",
+        "wiki/concepts/agent-skills.md",
+        "wiki/concepts/discovery-tiers.md",
+        "wiki/concepts/agent-skills-management.md"
+      ]
+    },
+    "4. Release extensions.md": {
+      "hash": "0fdd0b8bb6084357f15f00472796e9be0bc7cf8b44d0263436bf6767dd680ce4",
+      "timestamp": 1777963424729,
+      "filesWritten": [
+        "wiki/sources/4-release-extensions.md",
+        "wiki/entities/action-gh-release.md",
+        "wiki/entities/gemini-extension-json.md",
+        "wiki/concepts/extension-distribution.md",
+        "wiki/concepts/extension-gallery-discovery.md",
+        "wiki/concepts/extension-migration.md"
+      ]
+    },
+    "5. Extension reference.md": {
+      "hash": "98f3d788b52335f003b738d5aaf698de2bbe53ef98d89dba10814091bee1ac6b",
+      "timestamp": 1777963581449,
+      "filesWritten": [
+        "wiki/sources/5. Extension reference.md",
+        "wiki/entities/gemini-extension-json.md",
+        "wiki/entities/extension-commands.md",
+        "wiki/entities/extension-settings.md",
+        "wiki/entities/extension-custom-commands.md"
+      ]
+    },
+    "III. 10. Model routing.md": {
+      "hash": "648918f9a9e476647c17a47d3c5b2cc6354bf45641134b758611bd9239f20ef3",
+      "timestamp": 1777963702216,
+      "filesWritten": [
+        "wiki/sources/III. 10. Model routing.md",
+        "wiki/entities/model-availability-service.md",
+        "wiki/entities/gemma.md",
+        "wiki/entities/gemini-2-5-flash-lite.md",
+        "wiki/entities/gemini-2-5-flash.md",
+        "wiki/entities/gemini-2-5-pro.md",
+        "wiki/entities/settings-json.md",
+        "wiki/entities/gemini-model-env-var.md"
+      ]
+    },
+    "III. 11. Gemini CLI model selection (`model` command).md": {
+      "hash": "3fd638c264085ee7a1fd1ca2d84c9e0b1fa6c979e5c64d571bb3208e09384941",
+      "timestamp": 1777963832322,
+      "filesWritten": [
+        "wiki/sources/III. 11. Gemini CLI model selection (`model` command).md",
+        "wiki/entities/model-command.md",
+        "wiki/entities/model-tiers.md",
+        "wiki/concepts/model-selection.md",
+        "wiki/concepts/auto-mode.md",
+        "wiki/concepts/manual-mode.md",
+        "wiki/index.md"
+      ]
+    },
+    "III. 12. Model steering (experimental).md": {
+      "hash": "925da79f792c0482bd86f2c8763ec92187dc1765766968af5819e9d5ab01df9e",
+      "timestamp": 1777963918422,
+      "filesWritten": [
+        "wiki/sources/III. 12. Model steering (experimental).md",
+        "wiki/entities/model-steering.md",
+        "wiki/concepts/steering-hints.md",
+        "wiki/concepts/context-injection.md",
+        "wiki/entities/agent-skills.md"
+      ]
+    },
+    "III. 13. Notifications (experimental).md": {
+      "hash": "8c8645c89774597a33ebab04578e2eecd0b8f1c4e5e39541c84af31989cc9ff3",
+      "timestamp": 1777964027950,
+      "filesWritten": [
+        "wiki/sources/III. 13. Notifications (experimental).md",
+        "wiki/concepts/notifications.md",
+        "wiki/entities/iterm2.md",
+        "wiki/entities/wezterm.md",
+        "wiki/entities/ghostty.md",
+        "wiki/entities/kitty.md",
+        "wiki/entities/osc-9.md",
+        "wiki/entities/terminal-bell.md",
+        "wiki/entities/settings.md"
+      ]
+    },
+    "III. 14. Plan Mode.md": {
+      "hash": "96075644072092a6facf5945a24fd63758bb1ae76ec16377377652c741fabb7c",
+      "timestamp": 1777964226694,
+      "filesWritten": [
+        "wiki/sources/III. 14. Plan Mode.md",
+        "wiki/concepts/plan-mode.md",
+        "wiki/concepts/policy-engine.md"
+      ]
+    },
+    "III. 15. Subagents.md": {
+      "hash": "8d41a6c67fcac840c806de6780cde9b241ba2806181fdd061b1427d8d68e1710",
+      "timestamp": 1777964384536,
+      "filesWritten": [
+        "wiki/sources/III.-15-subagents.md",
+        "wiki/entities/codebase-investigator.md",
+        "wiki/entities/cli-help.md",
+        "wiki/entities/generalist.md",
+        "wiki/entities/browser-agent.md",
+        "wiki/concepts/subagents.md"
+      ]
+    },
+    "III. 16. Remote Subagents.md": {
+      "hash": "3eb81c708fab822301e5501ef238927b1652e7c3e217dc8f6f3748248ed8439c",
+      "timestamp": 1777964575504,
+      "filesWritten": [
+        "wiki/sources/III.-16-remote-subagents.md",
+        "wiki/concepts/remote-subagents.md",
+        "wiki/concepts/a2a-protocol.md",
+        "wiki/concepts/agent-card.md"
+      ]
+    },
+    "5. Agent Skill best practices.md": {
+      "hash": "d4d885ec55d51a47a9f503b4e7f22ada3c2a4a9bf31fdd59cbf5ca96b5db9a08",
+      "timestamp": 1777965596421,
+      "filesWritten": [
+        "wiki/sources/5-agent-skill-best-practices.md",
+        "wiki/concepts/agent-skills.md",
+        "wiki/concepts/progressive-disclosure.md",
+        "wiki/concepts/skill-description-writing.md",
+        "wiki/concepts/skill-anatomy.md"
+      ]
+    },
+    "III. 20. Observability with OpenTelemetry.md": {
+      "hash": "fd2e3a64db6d6b68d2ba99fa4d536a8b7d373ed279f7ce075df898b27fee268e",
+      "timestamp": 1777965730276,
+      "filesWritten": [
+        "wiki/sources/III. 20. Observability with OpenTelemetry.md",
+        "wiki/concepts/telemetry.md",
+        "wiki/concepts/telemetry-logs.md"
+      ]
+    },
+    "III. 21. Token caching and cost optimization.md": {
+      "hash": "88e2b87f0a848acc639e603bbb0e39a8a24c80b6cb27d4bb9a90e78d51e8b12c",
+      "timestamp": 1777965857803,
+      "filesWritten": [
+        "wiki/sources/III. 21. Token caching and cost optimization.md",
+        "wiki/concepts/token-caching.md",
+        "wiki/entities/stats-command.md",
+        "wiki/index.md"
+      ]
+    },
+    "III. 3. Auto Memory.md": {
+      "hash": "0c0c0f64c7f8ee89ff3e3778172ead90eae7b998dcf0a4542f15b9ea674a2e56",
+      "timestamp": 1777965969757,
+      "filesWritten": [
+        "wiki/sources/III. 3. auto-memory.md",
+        "wiki/entities/auto-memory.md",
+        "wiki/entities/confucius-subagent.md",
+        "wiki/entities/skill-md.md",
+        "wiki/entities/gemini-md.md",
+        "wiki/entities/save-memory-tool.md",
+        "wiki/entities/memory-inbox-command.md",
+        "wiki/concepts/skill-mining.md"
+      ]
+    },
+    "III. 4. Checkpointing.md": {
+      "hash": "678bd6aa609189e03f6708d795087668bc3de183adb75e45663aeabecf4c9814",
+      "timestamp": 1777966129419,
+      "filesWritten": [
+        "wiki/sources/III. 4. Checkpointing.md",
+        "wiki/entities/restore-command.md",
+        "wiki/concepts/checkpointing.md",
+        "wiki/concepts/shadow-git-repository.md"
+      ]
+    },
+    "III. 5. Headless mode reference.md": {
+      "hash": "404a2f470f9dd4241194da6c29c79f4cc5e70740fa9b672e9e9e3f85b866d253",
+      "timestamp": 1777966229359,
+      "filesWritten": [
+        "wiki/sources/III. 5. Headless mode reference.md",
+        "wiki/concepts/headless-mode.md",
+        "wiki/concepts/json-output.md",
+        "wiki/concepts/jsonl-streaming.md",
+        "wiki/concepts/exit-codes.md"
+      ]
+    },
+    "III. 6. Git Worktrees (experimental).md": {
+      "hash": "42dcddfbd3f5c0b4bd4758f21d1ef85226c87cf17f874770065786274457e0a5",
+      "timestamp": 1777966366357,
+      "filesWritten": [
+        "wiki/sources/III.-6.-git-worktrees-(experimental).md",
+        "wiki/concepts/git-worktrees.md",
+        "wiki/comparisons/forking-conversations-vs-git-worktrees.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "1. Gemini CLI hooks.md": {
+      "hash": "75d336ee2e940cfc0ff2302245d40aa0f38190f1aee7f73a86177efcc84d6c6d",
+      "timestamp": 1777966511174,
+      "filesWritten": [
+        "wiki/sources/1-gemini-cli-hooks.md",
+        "wiki/concepts/hooks.md",
+        "wiki/concepts/hook-events.md",
+        "wiki/concepts/hook-security.md",
+        "wiki/concepts/hook-exit-codes.md"
+      ]
+    },
+    "2. Hooks reference.md": {
+      "hash": "19107276938470e2b5f4395c7b8f2f184b3eff827332437fd9d3cada8aca54b4",
+      "timestamp": 1777966644848,
+      "filesWritten": [
+        "wiki/sources/2. Hooks reference.md",
+        "wiki/concepts/hooks.md",
+        "wiki/concepts/tool-hooks.md",
+        "wiki/concepts/agent-hooks.md"
+      ]
+    },
+    "1. IDE Integration.md": {
+      "hash": "5d24be97ef8c273aa39fb1e862a97c678753ddb2f27d244dabcfa3836debaf35",
+      "timestamp": 1777966822092,
+      "filesWritten": [
+        "wiki/sources/1-ide-integration.md",
+        "wiki/entities/gemini-cli-companion-extension.md",
+        "wiki/entities/vs-code.md",
+        "wiki/entities/open-vsx-registry.md",
+        "wiki/entities/zed-editor.md",
+        "wiki/entities/jetbrains-ides.md",
+        "wiki/concepts/ide-integration.md",
+        "wiki/concepts/agent-client-protocol.md"
+      ]
+    },
+    "2. ACP Mode.md": {
+      "hash": "82758e15e36b0ebf7f59b08e585bfdf9b4197851977707da656d50dae22a641b",
+      "timestamp": 1777966960062,
+      "filesWritten": [
+        "wiki/sources/2. acp mode.md",
+        "wiki/entities/agent-client-protocol.md",
+        "wiki/entities/json-rpc-2-0.md",
+        "wiki/entities/mcp-model-context-protocol.md",
+        "wiki/entities/acp-agent-registry.md",
+        "wiki/entities/jetbrains.md",
+        "wiki/entities/zed.md",
+        "wiki/concepts/acp-mode.md"
+      ]
+    },
+    "1. MCP servers with Gemini CLI.md": {
+      "hash": "0f9d74edb0b3cf358197ce97e50f7214363015d4adcaf0959a6fa8d6c776036a",
+      "timestamp": 1777967132140,
+      "filesWritten": [
+        "wiki/sources/1-mcp-servers-with-gemini-cli.md",
+        "wiki/entities/mcp-server.md",
+        "wiki/entities/model-context-protocol.md",
+        "wiki/entities/gemini-mcp-command.md",
+        "wiki/concepts/mcp-server-integration.md",
+        "wiki/concepts/mcp-tools.md"
+      ]
+    },
+    "2. MCP resource tools.md": {
+      "hash": "bdad12c07839e46462570c7b12ea62bc0cabc88c7428d3cd40b1b0b4a80e8e6c",
+      "timestamp": 1777967246601,
+      "filesWritten": [
+        "wiki/sources/2-mcp-resource-tools.md",
+        "wiki/entities/list-mcp-resources.md",
+        "wiki/entities/read-mcp-resource.md",
+        "wiki/concepts/mcp-resources.md",
+        "wiki/concepts/resource-discovery.md",
+        "wiki/concepts/resource-uri.md"
+      ]
+    },
+    "1. Custom commands.md": {
+      "hash": "f3c8f77560d9cc4358f2cffbcc04f6d004f6f1d30d9406b728d116ef1c89a198",
+      "timestamp": 1777967382803,
+      "filesWritten": [
+        "wiki/sources/1. Custom commands.md",
+        "wiki/concepts/custom-commands.md",
+        "wiki/concepts/command-namespaces.md",
+        "wiki/concepts/argument-injection.md",
+        "wiki/concepts/shell-injection.md",
+        "wiki/concepts/file-injection.md",
+        "wiki/concepts/command-precedence.md",
+        "wiki/entities/user-commands-directory.md"
+      ]
+    },
+    "2. Enterprise configuration.md": {
+      "hash": "e522558e9274fde4dd4534fbc082c5c306311017a462af8f4c67073078f3c8c8",
+      "timestamp": 1777967525426,
+      "filesWritten": [
+        "wiki/sources/2-enterprise-configuration.md",
+        "wiki/concepts/enterprise-configuration.md",
+        "wiki/concepts/settings-precedence.md",
+        "wiki/concepts/tool-allowlisting.md",
+        "wiki/concepts/yolo-mode.md",
+        "wiki/concepts/mcp-server-management.md"
+      ]
+    },
+    "3. Ignore files (.geminiignore).md": {
+      "hash": "19c3b9d9861f82c007e5ec14576b7363b69ed565a08518335fe45da90f2d233f",
+      "timestamp": 1777967643034,
+      "filesWritten": [
+        "wiki/sources/3-ignore-files-geminiignore.md",
+        "wiki/entities/geminiignore.md",
+        "wiki/concepts/file-ignoring.md",
+        "wiki/concepts/glob-patterns.md",
+        "wiki/concepts/pattern-negation.md",
+        "wiki/concepts/anchored-paths.md"
+      ]
+    },
+    "4. Model configuration.md": {
+      "hash": "8226397bd127ea6bd69ac947e5751dd3d86589485e575f563e75276d8bdf16d2",
+      "timestamp": 1777967763030,
+      "filesWritten": [
+        "wiki/sources/4. Model configuration.md",
+        "wiki/entities/ModelConfigService.md",
+        "wiki/entities/google-genai-sdk.md",
+        "wiki/concepts/model-configuration.md",
+        "wiki/concepts/model-aliases.md",
+        "wiki/concepts/model-overrides.md",
+        "wiki/concepts/resolution-strategy.md"
+      ]
+    },
+    "5. Project context (GEMINI.md).md": {
+      "hash": "dac4ec598c963c2b4adcbc414d11519cee9f8dde75a750a22cd009fa32c8aa28",
+      "timestamp": 1777967898792,
+      "filesWritten": [
+        "wiki/sources/5. Project context (GEMINI.md).md",
+        "wiki/entities/gemini-md.md",
+        "wiki/concepts/project-context.md",
+        "wiki/concepts/hierarchical-context.md"
+      ]
+    },
+    "6. Settings.md": {
+      "hash": "67c592853ea117998fe6ab7e4771f68949e36020a5b5320f0f174b7901273448",
+      "timestamp": 1777968076913,
+      "filesWritten": [
+        "wiki/sources/6.-settings.md",
+        "wiki/entities/settings-command.md",
+        "wiki/entities/settings-json.md",
+        "wiki/concepts/workspace-settings.md",
+        "wiki/concepts/approval-modes.md",
+        "wiki/concepts/yolo-mode.md",
+        "wiki/concepts/topic-update-narration.md"
+      ]
+    },
+    "7. System prompt override.md": {
+      "hash": "2bfaf026974fb3b18547278c955e97a47aa9033548bc97d669c3bda94dc45eca",
+      "timestamp": 1777968207135,
+      "filesWritten": [
+        "wiki/sources/7. System prompt override.md",
+        "wiki/entities/gemini-system-md.md",
+        "wiki/entities/gemini-write-system-md.md",
+        "wiki/entities/system-md-file.md",
+        "wiki/entities/gemini-env-file.md",
+        "wiki/concepts/system-prompt-override.md"
+      ]
+    },
+    "8. Themes.md": {
+      "hash": "3efe38e66bad956997c0607af762aa20901745f0823789ced42d67faf5f13fce",
+      "timestamp": 1777968349459,
+      "filesWritten": [
+        "wiki/sources/8. themes.md",
+        "wiki/entities/theme-command.md",
+        "wiki/concepts/theme-system.md",
+        "wiki/concepts/custom-themes.md",
+        "wiki/concepts/theme-configuration-reference.md"
+      ]
+    },
+    "9. Trusted folders.md": {
+      "hash": "0981aeb683885004031370f6eee75dfe2c6296414bd99b71f3efc924ed58b10b",
+      "timestamp": 1777968474873,
+      "filesWritten": [
+        "wiki/sources/9-trusted-folders.md",
+        "wiki/concepts/trusted-folders.md",
+        "wiki/concepts/safe-mode.md",
+        "wiki/entities/trustedFolders-json.md",
+        "wiki/entities/permissions-command.md"
+      ]
+    },
+    "1. Contribution guide.md": {
+      "hash": "e5ee15d1a8354455b20c9e7ce198801540295b19e57bc6af7d885a73ae553251",
+      "timestamp": 1777968663738,
+      "filesWritten": [
+        "wiki/sources/1-contribution-guide.md",
+        "wiki/concepts/contribution-workflow.md",
+        "wiki/concepts/atomic-pull-requests.md",
+        "wiki/concepts/conventional-commits.md",
+        "wiki/concepts/self-assignment.md",
+        "wiki/concepts/preflight-checks.md",
+        "wiki/entities/contributor-license-agreement.md"
+      ]
+    },
+    "2. Integration testing.md": {
+      "hash": "0e02096fddc4b8411047aedcc98fac119c27064dc40ac148508f559bc03f4ed6",
+      "timestamp": 1777968759909,
+      "filesWritten": [
+        "wiki/sources/2-integration-testing.md",
+        "wiki/concepts/integration-testing.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "3. Issue and PR automation.md": {
+      "hash": "3bceb5eddf5c1e6f969dc95a351cc309c2b5998b7d22d42713cb6a82d202a00e",
+      "timestamp": 1777968852854,
+      "filesWritten": [
+        "wiki/sources/3. issue-and-pr-automation.md",
+        "wiki/entities/review-sh.md",
+        "wiki/entities/assign-command.md",
+        "wiki/entities/unassign-command.md",
+        "wiki/concepts/automated-review-tool.md",
+        "wiki/concepts/issue-command-protocol.md",
+        "wiki/index.md"
+      ]
+    },
+    "4. Local development.md": {
+      "hash": "ac043a68cbfa24862be4616b3c686474959326785fd7a681b94e955c49c60e1d",
+      "timestamp": 1777968983034,
+      "filesWritten": [
+        "wiki/sources/4-local-development.md",
+        "wiki/entities/opentelemetry.md",
+        "wiki/entities/jaeger.md",
+        "wiki/entities/genkit.md",
+        "wiki/entities/runindevecespan.md",
+        "wiki/entities/genkitclioperation.md",
+        "wiki/concepts/tracing.md",
+        "wiki/concepts/telemetry-server.md",
+        "wiki/concepts/instrumenting-code.md"
+      ]
+    },
+    "5. NPM package structure.md": {
+      "hash": "94be7cbe8de3add31ac14d5a86eb9d68e3754870b26ac7b58baa65ee5959383f",
+      "timestamp": 1777969112312,
+      "filesWritten": [
+        "wiki/sources/5.-npm-package-structure.md",
+        "wiki/entities/google-gemini-cli.md",
+        "wiki/entities/google-gemini-cli-core.md",
+        "wiki/concepts/monorepo-structure.md",
+        "wiki/concepts/npm-workspaces.md",
+        "wiki/concepts/bundled-vs-unbundled.md"
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "general": {
+    "enableNotifications": true,
+    "plan": {
+      "directory": ".gemini\\plans"
+    }
+  },
+  "ui": {
+    "inlineThinkingMode": "full",
+    "showStatusInTitle": true,
+    "showCitations": true,
+    "terminalBuffer": true
+  },
+  "ide": {
+    "enabled": true
+  },
+  "model": {},
+  "context": {},
+  "experimental": {
+    "modelSteering": true,
+    "autoMemory": true,
+    "generalistProfile": true,
+    "contextManagement": true
+  },
+  "telemetry": {
+    "enabled": true,
+    "target": "local",
+    "outfile": ".gemini/telemetry.log"
+  },
+  "mcpServers": {
+    "slack": {
+      "command": "npx.cmd",
+      "args": [
+        "-y",
+        "slack-mcp-server@latest",
+        "--transport",
+        "stdio"
+      ],
+      "env": {
+        "SLACK_MCP_XOXB_TOKEN": "YOUR_SLACK_TOKEN_HERE",
+        "SLACK_MCP_ADD_MESSAGE_TOOL": "true",
+        "SLACK_MCP_ENABLED_TOOLS": "channels_list,conversations_history,conversations_replies,conversations_add_message,reactions_add,reactions_remove,conversations_mark,users_search,usergroups_list,usergroups_me,usergroups_create,usergroups_update,usergroups_users_update"
+      },
+      "timeout": 120000
+    }
+  }
+}

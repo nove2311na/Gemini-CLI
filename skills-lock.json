@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "caveman": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "caveman/SKILL.md",
+      "computedHash": "c9bc6c69829953233bb175d1e3951a7bc53ebbf573bddcaadc3299ca8154bbb2"
+    },
+    "course-designer": {
+      "source": "teachingai/full-stack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/teaching-skills/course-designer/SKILL.md",
+      "computedHash": "37b50ef4dab85b380ffe2a8c68401559fdcbaddcc007828ecb90f1963d8cbed8"
+    },
+    "notebooklm": {
+      "source": "pleaseprompto/notebooklm-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "40877d53667ab1d100695e3b171c305a9c341fa251835af1c6f5d8a910f3ac6f"
+    },
+    "teaching-resource-generator": {
+      "source": "teachingai/full-stack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/teaching-skills/teaching-resource-generator/SKILL.md",
+      "computedHash": "ffa7928b942f78d4f860c135b221fe6f55fc3cc0da7e8593b28e67bcbaa3b7d6"
+    },
+    "tutorial-engineer": {
+      "source": "rmyndharis/antigravity-skills",
+      "sourceType": "github",
+      "skillPath": "skills/tutorial-engineer/SKILL.md",
+      "computedHash": "1a824ca0db1ed28f4352b2e64110ccb90ea38cc0d5422f1d68f145e1e865b66a"
+    }
+  }
+}
